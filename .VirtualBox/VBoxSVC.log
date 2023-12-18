@@ -1,0 +1,51 @@
+00:00:00.008521 main     VirtualBox COM Server 7.0.12 r159484 win.amd64 (Oct 12 2023 19:53:29) release log
+00:00:00.008524 main     Log opened 2023-10-23T10:20:57.343225600Z
+00:00:00.008525 main     Build Type: release
+00:00:00.008601 main     OS Product: Windows 8
+00:00:00.008603 main     OS Release: 6.2.9200
+00:00:00.008604 main     OS Service Pack: 
+00:00:00.215988 main     DMI Product Name: HP Compaq dc5800 Microtower
+00:00:00.235629 main     DMI Product Version:  
+00:00:00.235753 main     Firmware type: BIOS
+00:00:00.235768 main     Host RAM: 4015MB (3.9GB) total, 2108MB (2.0GB) available
+00:00:00.235809 main     Executable: I:\VBoxSVC.exe
+00:00:00.235811 main     Process ID: 6824
+00:00:00.235812 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:01.199827          VirtualBox: object creation starts
+00:00:01.206043          Home directory: 'C:\Users\Ganza\.VirtualBox'
+00:00:01.207607          Installed Drivers:
+00:00:01.213814            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.12.9484)
+00:00:01.214825            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.12.9484)
+00:00:01.215370            C:\WINDOWS\system32\DRIVERS\VBoxSup.sys (Version: 7.0.12.9484)
+00:00:01.216424            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.12.9484)
+00:00:01.243107          Loading settings file "C:\Users\Ganza\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.282087          usbLibGetDevices: Starting USB device enumeration
+00:00:01.476469          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:01.852480          HostDnsMonitor: initializing
+00:00:01.873772          HostDnsMonitor: updating information
+00:00:01.876747          HostDnsMonitor: old information
+00:00:01.876749            no server entries
+00:00:01.876751            no domain set
+00:00:01.876752            no search string entries
+00:00:01.876753          HostDnsMonitor: new information
+00:00:01.876754            server 1: 10.22.105.51
+00:00:01.876755            server 2: 10.22.105.52
+00:00:01.876756            domain: aegistrust.rw
+00:00:01.876757            no search string entries
+00:00:02.092874          SUPR0QueryVTCaps -> VERR_VMX_MSR_ALL_VMX_DISABLED
+00:00:02.191691          VD: VDInit finished with VINF_SUCCESS
+00:00:02.417018          Loading settings file "J:\VMS\Linux\Linux.vbox" with version "1.19-windows"
+00:00:02.463589          VirtualBox: object created
+00:00:03.122071          Saving settings file "C:\Users\Ganza\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:03.562599          Finished saving settings file "C:\Users\Ganza\.VirtualBox\VirtualBox.xml"
+00:00:03.564831          Saving settings file "C:\Users\Ganza\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:03.824803          Finished saving settings file "C:\Users\Ganza\.VirtualBox\VirtualBox.xml"
+00:00:03.826965          Saving settings file "C:\Users\Ganza\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:04.121488          Finished saving settings file "C:\Users\Ganza\.VirtualBox\VirtualBox.xml"
+00:00:34.625997          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Aborted)}, preserve=false aResultDetail=0
+00:11:01.977342 dns-monitor HostDnsMonitor: updating information
+00:11:01.977393 dns-monitor HostDnsMonitor: unchanged
+00:15:05.812684          Saving settings file "C:\Users\Ganza\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:05.875126          Finished saving settings file "C:\Users\Ganza\.VirtualBox\VirtualBox.xml"
+00:21:23.360316 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:21:25.638317 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured

@@ -1,0 +1,17 @@
+00:00:09.997134 VirtualBox GUI VM Selector Window 7.0.12 r159484 win.amd64 (Oct 12 2023 19:53:29) release log
+00:00:09.997137 Log opened 2023-10-23T10:21:00.239368500Z
+00:00:09.997138 Build Type: release
+00:00:09.997144 OS Product: Windows 8
+00:00:09.997146 OS Release: 6.2.9200
+00:00:09.997147 OS Service Pack: 
+00:00:10.014132 DMI Product Name: HP Compaq dc5800 Microtower
+00:00:10.020407 DMI Product Version:  
+00:00:10.020453 Firmware type: BIOS
+00:00:10.020466 Host RAM: 4015MB (3.9GB) total, 2014MB available
+00:00:10.020473 Executable: I:\VirtualBox.exe
+00:00:10.020474 Process ID: 6908
+00:00:10.020475 Package type: WINDOWS_64BITS_GENERIC
+00:00:10.020667 Qt version: 5.15.2
+00:00:10.158545 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:11.389798 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:41.568728 GUI: UIMediumEnumerator: Medium-enumeration finished!

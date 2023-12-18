@@ -1,0 +1,33 @@
+{
+	"name": "php-server-vars-snippets",
+	"displayName": "PHP $_SERVER vars snippets",
+	"description": "Provides VS Code autocompletion for keys containing in $_SERVER superglobal array",
+	"version": "0.0.3",
+	"publisher": "MihailUrakov",
+	"repository": "https://github.com/mikbox74/php-server-vars-snippets",
+	"icon": "elephant-6-128.png",
+	"engines": {
+		"vscode": "^1.42.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "php",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "99229387-0731-44fa-895b-593ca4385235",
+		"publisherId": "912f25d6-3c95-4260-943a-93058f115db9",
+		"publisherDisplayName": "Michail Urakov",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1701694810419,
+		"preRelease": false
+	}
+}
